@@ -107,4 +107,3 @@ const dani = new ProjectManager({
 */
 dani.standup('@cs7');
 dani.debugsCode(steven, 'JS');
-console.log(dani.gender);
